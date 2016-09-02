@@ -1,0 +1,12 @@
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\bin\Debug\Depreciation.exe.config
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\obj\Debug\Depreciation.vbprojResolveAssemblyReference.cache
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\obj\Debug\Depreciation.Resources.resources
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.Cache
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\obj\Debug\Depreciation.xml
+c:\users\jetstream\documents\visual studio 2015\Projects\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+C:\Users\JetStream\Documents\Visual Studio 2015\Projects\Depreciation\Depreciation\obj\Debug\Depreciation.frmDisplayInventory.resources
